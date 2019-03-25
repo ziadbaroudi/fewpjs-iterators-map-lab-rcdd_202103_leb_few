@@ -19,4 +19,4 @@ function titleCased() {
     }
     return tutorial.join(' ');
   });
-}
+} 
